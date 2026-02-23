@@ -11,10 +11,10 @@ I lead high-impact enterprise programs from engineering execution through produc
 
 | Engineering | Governance & Delivery | Modernization & Operations |
 | :--- | :--- | :--- |
-| SQL Server, DB Optimization | End-to-End SDLC Ownership | Legacy → SQL Modernization | Project Delivery and Management | Budgeting |
+| SQL/PLSQL, DB Optimization | End-to-End SDLC Ownership | Legacy → SQL Modernization | 
 | Python (Automation/ETL) | Agile, Jira, Release Governance | Production Rollout Strategy |
-| Pega BPM | Multi-Geo Stakeholder Management | Risk Mitigation & SLA Design | Client Engagement | Engagement Partner
-
+| Pega BPM | Multi-Geo Stakeholder Management | Risk Mitigation & SLA Design | 
+| | Client Engagement,Engagement Partner,Project Delivery and Management,Budgeting | |
 ---
 
 ## 📈 Impact at a Glance

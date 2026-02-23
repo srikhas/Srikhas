@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Srikanth Kasibhatla  
 ### Technical Program Manager | Enterprise Modernization | Production Delivery
 
-31 Database Modernizations | Zero Production Downtime | Global Delivery Leadership
+Ditial Transformation | AI/ML Projects Delivery | Global Delivery Leadership | Client Engagement Partner
 
 I lead high-impact enterprise programs from engineering execution through production rollout and operationalization. With a strong foundation in SQL, Python, and Pega, I specialize in large-scale modernization initiatives, production readiness governance, and engineering-to-support transitions across global teams.
 
